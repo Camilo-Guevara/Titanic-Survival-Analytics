@@ -1,8 +1,8 @@
-# Titanic Survival Analytics 🚢
+# Titanic análisis de sobrevivientes  
 
 **Autor:** Cristian Camilo Guevara · Diplomatura en Ciencia de Datos y Análisis Avanzado (UTN), 2026.
 
-Dashboard Streamlit **Cyber-Dark**, con narrativa y análisis técnico, construido a partir de los CSV reales generados en las etapas 1–3. Incluye navegación por cinco pestañas: historia, ETL, EDA, simulador ML y calidad/descargas.
+Dashboard Streamlit, con narrativa y análisis técnico, construido a partir de los CSV reales generados en las etapas 1–3 del proyecto educativo. Incluye navegación por cinco pestañas: historia, ETL, EDA, simulador ML y calidad/descargas.
 
 ## Ejecutar en VS Code / Windows
 
