@@ -1,0 +1,7 @@
+# Move this file to .streamlit/config.toml if you want a local theme override.
+[theme]
+primaryColor = "#3be4e8"
+backgroundColor = "#071322"
+secondaryBackgroundColor = "#10263b"
+textColor = "#e8f1ff"
+font = "sans serif"
